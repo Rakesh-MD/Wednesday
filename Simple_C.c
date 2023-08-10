@@ -4,7 +4,7 @@ int main()
 {
    
      printf(" Hello Rakesh Welcome to GitHub Chnged in Server Side \n");
-     printf("\nLON020\n.............. Now Its 50000 .............\n ");
+     printf("\nLON020\n.............. Now Its 60000 .............\n ");
 
    printf(" Hello Rakesh Welcome to GitHub\n");
     show();
